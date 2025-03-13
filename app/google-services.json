@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1063256632450",
+    "firebase_url": "https://quiz-game-3f602-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "quiz-game-3f602",
+    "storage_bucket": "quiz-game-3f602.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063256632450:android:81a3ecae1240ec65ce589b",
+        "android_client_info": {
+          "package_name": "com.kronos.quizgame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063256632450-26hg3emk8m2c1s49mvuoqfm43fms0jvo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kronos.quizgame",
+            "certificate_hash": "35244d0e99bc8a1a05223add2d61a2679d827dcf"
+          }
+        },
+        {
+          "client_id": "1063256632450-2m3lg5qmlf3uo2mivfk832bofmmbf1h8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAFnfD1bA9tWTYdGR1srZJhL411UDHJpg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1063256632450-2m3lg5qmlf3uo2mivfk832bofmmbf1h8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

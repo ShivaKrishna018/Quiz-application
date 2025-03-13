@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Quiz Game</string>
+    <string name="quiz_show">Quiz show</string>
+    <string name="don_t_have_a_account_yet_sign_up">Don\'t have a account yet?<b><u><i> Sign Up</i></u></b></string>
+    <string name="i_forgot_my_password"><b><u><i>I forgot my password</i></u></b></string>
+    <string name="email">Email</string>
+    <string name="password">password</string>
+    <string name="login">Login</string>
+    <string name="or">OR</string>
+    <string name="log_out">Log Out</string>
+    <string name="resetPassword"><b>Enter the email associated with your account and we will send an email with instructions to reset your password</b></string>
+    <string name="send_instructions">Send Instructions</string>
+    <string name="reset_password">Reset password</string>
+    <string name="start_game">Start Game</string>
+    <string name="quizstart">quizStart</string>
+    <string name="timer">Timer</string>
+    <string name="_0">0</string>
+    <string name="correct">Correct</string>
+    <string name="wrong">Wrong</string>
+    <string name="next">Next</string>
+    <string name="finish">Finish</string>
+    <string name="question">Question</string>
+    <string name="answer_a">Answer A</string>
+    <string name="answer_b">Answer B</string>
+    <string name="answer_c">Answer C</string>
+    <string name="answer_d">Answer D</string>
+    <string name="play_again">Play Again</string>
+    <string name="exit">Exit</string>
+    <string name="It">Correct</string>
+    <string name="wrongIt">Wrong</string>
+    <string name="result">result</string>
+</resources>
