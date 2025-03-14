@@ -16,6 +16,8 @@ This repository contains a quiz application that uses Firebase Realtime Database
 <img src="https://github.com/user-attachments/assets/134068a8-1626-4b89-b343-32e6deae867d" width="150">
 <img src="https://github.com/user-attachments/assets/4d901b6b-a57c-4ea8-ac2a-b0ffc98576a9" width="150">
 <img src="https://github.com/user-attachments/assets/7b0683a0-64ef-4d0c-aeb8-6bd704fae224" width="150">
+<img src="https://github.com/user-attachments/assets/3d2f0939-e375-4871-acf7-342757b147dc" width="150">
+<img src="https://github.com/user-attachments/assets/8c515852-cd3c-479d-a3c6-8ff0a70d6345" width="150">
 
 ## Technologies Used
 
